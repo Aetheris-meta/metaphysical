@@ -7,3 +7,6 @@
 ## Guide
 
 * [Introduction](guide/introduction.md)
+* [Why We Suffer](guide/why-we-suffer.md)
+* [Methods to Overcome Suffering](guide/methods-to-overcome-suffering.md)
+* [Exoteric Powers](guide/exoteric-powers.md)
