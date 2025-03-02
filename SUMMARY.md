@@ -4,9 +4,9 @@
 * [Getting Started](getting-started.md)
 * [Ressources](ressources.md)
 
-## Guide
+## Pratical Guide
 
-* [Introduction](guide/introduction.md)
-* [Why We Suffer](guide/why-we-suffer.md)
-* [Methods to Overcome Suffering](guide/methods-to-overcome-suffering.md)
-* [Exoteric Powers](guide/exoteric-powers.md)
+* [Introduction](pratical-guide/introduction.md)
+* [Why We Suffer](pratical-guide/why-we-suffer.md)
+* [Methods to Overcome Suffering](pratical-guide/methods-to-overcome-suffering.md)
+* [Exoteric Powers](pratical-guide/exoteric-powers.md)
