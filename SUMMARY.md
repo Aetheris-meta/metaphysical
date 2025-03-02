@@ -3,10 +3,10 @@
 * [☺️ Hello](README.md)
 * [Getting Started](getting-started.md)
 * [Ressources](ressources.md)
+* [Introduction](introduction.md)
 
-## Guide
+## Guide\_test
 
-* [Introduction](guide/introduction.md)
-* [Why We Suffer](guide/why-we-suffer.md)
-* [Methods to Overcome Suffering](guide/methods-to-overcome-suffering.md)
-* [Exoteric Powers](guide/exoteric-powers.md)
+* [Why We Suffer](guide_test/why-we-suffer.md)
+* [Methods to Overcome Suffering](guide_test/methods-to-overcome-suffering.md)
+* [Exoteric Powers](guide_test/exoteric-powers.md)
