@@ -10,3 +10,8 @@
 * [Why We Suffer](pratical-guide/why-we-suffer.md)
 * [Methods to Overcome Suffering](pratical-guide/methods-to-overcome-suffering.md)
 * [Exoteric Powers](pratical-guide/exoteric-powers.md)
+
+## Ressources
+
+* [General](ressources-1/general.md)
+* [Bibliography](ressources-1/bibliography.md)
