@@ -15,8 +15,9 @@ layout:
 
 # Introduction
 
-**Unifying the laws of physics and exploring the big questions.**\
-Here, I try to bring together current physical equations into one that governs life itself (inspired by Einstein's quest). We'll dive into metaphysical questions—like the nature of reality, consciousness, and the soul—and even attempt a mathematical demonstration of God's existence. It's ambitious, but hey, why not aim high? 🚀
+Bienvenue dans un espace où la **science** rencontre les **grandes questions de l’existence**.\
+Ici, on explore les mystères de l’univers avec curiosité et rigueur, en cherchant à approcher l’idée de Dieu sans préjugés. Deux axes principaux guident cette réflexion : les questions métaphysiques qui défient notre compréhension, et une tentative pour relier ces mystères à une vision de Dieu.
 
-**Un espace pour explorer la science et les mystères profonds.**\
-Ce space plonge dans les grandes questions de l’existence et tente d’approcher l’idée de Dieu avec rigueur. Deux pages principales : les questions métaphysiques et une réflexion sur Dieu.
+La _physique quantique_, par exemple, nous pousse à repenser la réalité elle-même, avec ses comportements étranges et ses implications troublantes. Mais quand on s’aventure dans la _conscience_, on le territoire de la spiritualité. Entre les deux, il y a actuellement une frontière, un mur qu’on va essayer de percer.
+
+Poser des questions sur ce qu’on ne comprend pas encore, ce n’est pas s’éloigner de la science. C’est au contraire le moteur de toute découverte, l’étincelle qui nous rapproche d’une vérité plus grande.
